@@ -3,7 +3,7 @@ shut-down Timer
 it is timer to set , enrty hrs and mins deals with integers and floats
 
 
-#SHT screen_shot:-
+##SHT screen_shot:-
 
 
 
