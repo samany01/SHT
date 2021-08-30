@@ -9,7 +9,8 @@ It is timer to set , enrty (hrs and mins) deal with integers and floats :loudspe
 
 
 
-![Picture1](https://user-images.githubusercontent.com/77525029/131275889-86eeaff8-f117-4a95-b47e-beeecb9918e6.png)
+![Screenshot 2021-08-30 031340](https://user-images.githubusercontent.com/77525029/131275949-39635276-634b-46df-970d-93f248dc89a4.png)
+
 
 
 ## Video link :-
