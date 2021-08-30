@@ -1,7 +1,12 @@
 # SHT
 Shut-down Timer\
 It is timer to set , enrty (hrs and mins) deal with integers and floats :loudspeaker:
+## Programming language:-
+python :snake:
 
+## Packages:-
+1-time\
+2-tkinter
 
 ## SHT screen_shot:-
 
