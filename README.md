@@ -9,10 +9,11 @@ It is timer to set , enrty (hrs and mins) deal with integers and floats :loudspe
 
 
 
-![Screenshot 2021-08-07 025407](https://user-images.githubusercontent.com/77525029/131243952-d83955ad-091f-4370-96df-d8d7a4d3abcc.png)
+![Picture1](https://user-images.githubusercontent.com/77525029/131275889-86eeaff8-f117-4a95-b47e-beeecb9918e6.png)
+
 
 ## Video link :-
-https://www.youtube.com/watch?v=jPECymlxq4g
+https://www.youtube.com/watch?v=EREYEGopksw
 
 ## Refrence:-
 https://docs.python.org/3/library/tkinter.html \
